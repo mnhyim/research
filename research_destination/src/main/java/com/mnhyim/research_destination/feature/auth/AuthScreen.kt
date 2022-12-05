@@ -14,6 +14,6 @@ import com.ramcosta.composedestinations.navigation.dependency
 fun AuthScreen() {
 
     DestinationsNavHost(
-        navGraph = NavGraphs.root,
+        navGraph = NavGraphs.auth,
     )
 }
