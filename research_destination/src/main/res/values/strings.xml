@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">research_destination</string>
+    <string name="home_text">HOME</string>
+    <string name="shop_text">SHOP</string>
+</resources>
